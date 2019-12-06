@@ -22,7 +22,7 @@ You are required to have Python 3 installed in order to make use of this tool, i
 sudo apt-get install python3 
 ```
 
-##Usage
+## Usage
 
 ```bash
 python fedsteg.py
